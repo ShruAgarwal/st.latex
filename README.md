@@ -1,2 +1,2 @@
-# st.latex
-Day 15 of 30-Days-of-Streamlit Challenge
+# 🎈 Streamlit : st.latex() method
+An awesome method for displaying math formulas formatted as LaTex! 😲
